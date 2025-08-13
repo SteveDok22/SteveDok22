@@ -2,9 +2,9 @@
 
 ## Aspiring Full Stack Developer | Culinary Professional | Zürich, Switzerland 🇨🇭
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-ntoktorov/)
+[![LinkedIn](https://www.linkedin.com/in/steven-doktorov-304aa5296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/steven-doktorov/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stiven-ntoktorov)
+[![GitHub](https://github.com/SteveDok22)](https://github.com/SteveDok22)
 
 ---
 
@@ -127,7 +127,7 @@ I'm actively transitioning from culinary excellence to software development, bri
 I'm always open to discussing technology, career transitions, or collaboration opportunities!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-ntoktorov/)
+[![LinkedIn](https://www.linkedin.com/in/steven-doktorov-304aa5296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/steven-doktorov/)
 [![Location](https://img.shields.io/badge/Location-Zürich,_Switzerland-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Zurich,Switzerland)
 
 ---
@@ -143,4 +143,4 @@ I'm always open to discussing technology, career transitions, or collaboration o
 
 ---
 
-⭐️ From [Stiven Ntoktorov](https://github.com/stiven-ntoktorov) - Bringing culinary excellence to code excellence!
+⭐️ From [Stiven Ntoktorov](https://github.com/SteveDok22) - Bringing culinary excellence to code excellence!
