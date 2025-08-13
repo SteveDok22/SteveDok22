@@ -1,6 +1,6 @@
 # Hello 👋, I'm Stiven Ntoktorov
 
-## Aspiring Full Stack Developer | Culinary Professional | Zürich, Switzerland 🇨🇭
+## Aspiring Full Stack Developer | Data & Business Analysis Enthusiast | Zürich, Switzerland 🇨🇭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-doktorov-304aa5296/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
@@ -10,7 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate aspiring Full Stack Developer with a unique background combining culinary excellence and analytical expertise from financial trading. Currently transitioning from a successful culinary career to software development through intensive training at Code Institute. My diverse experience in high-pressure environments, team leadership, and data-driven decision making brings a unique perspective to software development.
+I am an **aspiring Full Stack Developer** currently completing my diploma at Code Institute, building strong foundations in **HTML, CSS, JavaScript, and Python**, and applying Agile/Scrum principles to real-world projects.  
+
+My journey blends **technical development skills** with **analytical expertise** from financial trading and participation in fintech hackathons — including the **JiVS Hackathon 2025** on *Sanction & Compliance Monitoring* in collaboration with Infosys.  
+
+This unique combination of **business analysis, data-driven decision-making, and cross-functional collaboration** allows me to bridge the gap between business requirements and IT solutions.
 
 ![Stiven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveDok22&theme=react&show_icons=true)
 
