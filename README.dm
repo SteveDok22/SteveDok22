@@ -2,9 +2,9 @@
 
 ## Aspiring Full Stack Developer | Culinary Professional | Zürich, Switzerland 🇨🇭
 
-[![LinkedIn](https://www.linkedin.com/in/steven-doktorov-304aa5296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/steven-doktorov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-ntoktorov/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![GitHub](https://github.com/SteveDok22)](https://github.com/SteveDok22)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteveDok22)
 
 ---
 
@@ -12,7 +12,7 @@
 
 I'm a passionate aspiring Full Stack Developer with a unique background combining culinary excellence and analytical expertise from financial trading. Currently transitioning from a successful culinary career to software development through intensive training at Code Institute. My diverse experience in high-pressure environments, team leadership, and data-driven decision making brings a unique perspective to software development.
 
-![Stiven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stiven-ntoktorov&theme=react&show_icons=true)
+![Stiven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveDok22&theme=react&show_icons=true)
 
 ---
 
@@ -44,7 +44,7 @@ I'm a passionate aspiring Full Stack Developer with a unique background combinin
 
 ## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stiven-ntoktorov&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveDok22&layout=compact&theme=react)
 
 ---
 
@@ -127,7 +127,7 @@ I'm actively transitioning from culinary excellence to software development, bri
 I'm always open to discussing technology, career transitions, or collaboration opportunities!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/steven-doktorov-304aa5296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/steven-doktorov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-ntoktorov/)
 [![Location](https://img.shields.io/badge/Location-Zürich,_Switzerland-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Zurich,Switzerland)
 
 ---
