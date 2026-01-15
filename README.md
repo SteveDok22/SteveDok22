@@ -1,170 +1,241 @@
-# Hello 👋, I'm Stiven Ntoktorov
+<div align="center">
 
-## Aspiring MLOps Engineer | Full Stack Developer Student | Zürich, Switzerland 🇨🇭
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:00d9ff,100:00d9ff&height=200&section=header&text=Stiven%20Ntoktorov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FinTech%20%7C%20MLOps&descSize=18&descAlignY=55"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-doktorov-304aa5296/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteveDok22)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+systems+for+financial+markets;Full-Stack+Developer+%40+Code+Institute;10%2B+years+trading+experience+%2B+coding;Based+in+Z%C3%BCrich%2C+Switzerland" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/steven-doktorov-304aa5296/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:s.doktorov123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/SteveDok22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-I am a **Full Stack Developer student** at Code Institute, actively building expertise in **Python, JavaScript, HTML, and CSS**, with a clear career path toward **MLOps Engineering and AI Development in FinTech/Crypto**.
+<br/>
 
-My background uniquely combines **hands-on trading experience** and **fintech hackathon participation** — including the **JiVS Hackathon 2025** on *Sanction & Compliance Monitoring* in collaboration with Infosys — with strong programming foundations and a passion for applying technology to financial markets.
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SteveDok22&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-I'm currently expanding my skill set into **machine learning, cloud technologies (Azure), and MLOps tools** while leveraging my real-world understanding of financial markets, data analysis, and risk management.
-
-![Stiven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteveDok22&theme=react&show_icons=true)
-
----
-
-## 🛠️ Technical Stack
-
-### 💪 Current Proficiency
-
-#### Full Stack Development
-![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-
-**Python Skills:**
-- Data manipulation with pandas and NumPy
-- Object-Oriented Programming (OOP)
-- Working with APIs and financial data
-- Command-line applications
-
-**Web Development:**
-- Responsive web design
-- DOM manipulation with JavaScript
-- Modern CSS (Flexbox, Grid)
-- GitHub Pages deployment
-
-#### Development Tools
-![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- Git version control and GitHub workflows
-- Agile/Scrum methodologies
-- Code Institute development environment
-
-### 📚 Currently Learning
-
-#### Machine Learning & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-- **scikit-learn**: Regression, Classification, Model evaluation
-- **XGBoost & CatBoost**: Gradient boosting fundamentals
-- **Feature Engineering**: Time series transformations for financial data
-- **Financial APIs**: yfinance, Binance API, Alpaca integration
-
-#### Databases & Cloud
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-- SQL and PostgreSQL fundamentals
-- Azure Fundamentals (preparing for AZ-900)
-- Cloud computing basics
-
-### 🎯 Next on Learning Path
-
-#### MLOps & Advanced AI
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-**Planned Skills:**
-- Docker containerization for ML models
-- FastAPI for building ML service APIs
-- PyTorch / TensorFlow neural network basics
-- GitHub Actions CI/CD pipelines
-- MLflow / DVC for model versioning
-- Azure ML Studio
-- Monitoring tools (Prometheus, Grafana)
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveDok22&layout=compact&theme=react)
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PersonFill.svg" width="24"/> About Me
 
----
+```yaml
+name: Stiven Ntoktorov
+location: Zürich, Switzerland
+role: Full-Stack Developer Student
+focus: FinTech & MLOps Engineering
 
-## 🎓 Education & Certifications
+background:
+  - 10+ years trading experience
+  - Michelin restaurant expertise
+  - JiVS Hackathon 2025 participant
+  
+currently:
+  learning: Machine Learning & Azure
+  building: Trading simulators & FinTech apps
+  preparing: AZ-900 Certification
+```
 
-**Code Institute** - Diploma in Full Stack Software Development *(Ongoing)*
-- Building portfolio projects including Personal Finance Survey Analyzer
-- Completed JavaScript Essentials and Python modules
-- Working on fintech-focused applications
-- Applying Agile methodologies in project development
-
-**Azure Fundamentals (AZ-900)** - In Progress
-- Studying cloud computing fundamentals
-- Learning Azure ML Studio and cloud-based AI services
-
-**Cardiff Metropolitan University UK** - Bachelor's in Food & Beverage Management *(2013-2016)*
-- Operations management and business processes
-- Data-driven decision making and quality control
-
----
-
-## 🌐 Languages
-
-| Language       | Proficiency      |
-| -------------- | -----------------|
-| Greek          | Native (C2)      |
-| Russian        | Native (C2)      |
-| English        | Upper Intermediate (B2)|
-| German (Swiss) | Intermediate (A2-B1)|
+<br clear="right"/>
 
 ---
 
-## 🎯 Current Focus & Learning Path
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/AppsMinor.svg" width="24"/> Tech Stack
 
-I'm actively studying toward a career as an **MLOps Engineer / AI Developer in FinTech/Crypto**, building on my strong foundation in Python, JavaScript, HTML, and CSS.
+<div align="center">
 
-**Currently Mastering:**
-- **Python Deep Dive**: pandas, NumPy, OOP principles, async programming
-- **Version Control**: Git workflows and GitHub collaboration
-- **SQL & Databases**: PostgreSQL fundamentals and data modeling
-- **Financial Data**: Working with APIs (yfinance, Binance, Alpaca)
-- **Code Institute Projects**: Building fintech-focused portfolio applications
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash&theme=dark" alt="Languages"/>
 
-**Actively Learning:**
-- **Machine Learning Basics**: scikit-learn (regression, classification, cross-validation)
-- **Gradient Boosting**: XGBoost and CatBoost fundamentals
-- **Feature Engineering**: Time series transformations for trading signals
-- **Cloud Fundamentals**: Preparing for Azure AZ-900 certification
+### Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap&theme=dark" alt="Frameworks"/>
 
-**Next Learning Steps (2025):**
-- **MLOps Tools**: Docker containerization, FastAPI for ML services
-- **CI/CD**: GitHub Actions pipelines for automated deployment
-- **Deep Learning**: PyTorch / TensorFlow neural network basics
-- **Model Management**: MLflow and DVC for versioning
-- **Monitoring**: Prometheus and Grafana basics
-- **Azure ML Studio**: End-to-end ML lifecycle management
+### Data Science & ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 
-**Domain Focus:**
-- Quantitative finance and algorithmic trading concepts
-- Cryptocurrency market analysis
-- Risk management and compliance monitoring
-- Real-time financial data processing
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,postgres&theme=dark" alt="Tools"/>
+
+</div>
 
 ---
 
-## 📫 Get in Touch
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Rocket.svg" width="24"/> Featured Projects
 
-I'm open to discussing **FinTech, ML/AI learning resources, junior developer opportunities**, or collaboration on projects!
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.doktorov123@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-doktorov-304aa5296/)
-[![Location](https://img.shields.io/badge/Location-Zürich,_Switzerland-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Zurich,Switzerland)
+<!-- TradeSim Pro -->
+<a href="https://github.com/SteveDok22/TradeSim-Pro">
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/tradesim-pro.gif" width="400" alt="TradeSim Pro"/>
+</a>
+
+### [TradeSim Pro](https://github.com/SteveDok22/TradeSim-Pro)
+Full-stack trading simulator with real-time crypto/forex prices, portfolio tracking & P&L analytics
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+<a href="https://tradesim-pro-stiven-62203fadbb77.herokuapp.com">
+  <img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+</a>
+<a href="https://github.com/SteveDok22/TradeSim-Pro">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
 
 ---
 
-⭐️ From [Stiven Ntoktorov](https://github.com/SteveDok22) - Learning to build intelligent systems for financial markets!
+<!-- FinTrack Dashboard -->
+<a href="https://github.com/SteveDok22/FinTrack">
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/fintrack.png" width="400" alt="FinTrack Dashboard"/>
+</a>
+
+### [FinTrack Dashboard](https://github.com/SteveDok22/FinTrack)
+Personal finance tracking dashboard with interactive data visualization & T-Bank inspired UI
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<a href="https://stevedok22.github.io/FinTrack/">
+  <img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+</a>
+<a href="https://github.com/SteveDok22/FinTrack">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+---
+
+<!-- MoneyMind Survey -->
+<a href="https://github.com/SteveDok22/MoneyMind---Servey">
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/finance-survey.png" width="400" alt="MoneyMind Survey"/>
+</a>
+
+### [MoneyMind Survey Analyzer](https://github.com/SteveDok22/MoneyMind---Servey)
+CLI application for analyzing personal finance survey data with Google Sheets integration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+<a href="https://money-minde-servey-3397e1a23ed8.herokuapp.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+</a>
+<a href="https://github.com/SteveDok22/MoneyMind---Servey">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+---
+
+<!-- HYPE Coffee -->
+<a href="https://github.com/SteveDok22/HYPE-speciality-coffee">
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/hype-coffee.png" width="400" alt="HYPE Coffee"/>
+</a>
+
+### [HYPE Specialty Coffee](https://github.com/SteveDok22/HYPE-speciality-coffee)
+Modern coffee shop website with custom SVG animations, neon effects & responsive design
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black)
+
+<a href="https://stevedok22.github.io/Hype-coffee/">
+  <img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
+</a>
+<a href="https://github.com/SteveDok22/HYPE-speciality-coffee">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Graph.svg" width="24"/> GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SteveDok22&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SteveDok22&theme=react&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveDok22&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Milestone.svg" width="24"/> Currently Learning
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Machine Learning     ████████████████████░░░░░░  75%        ║
+║  Azure Cloud          ██████████████░░░░░░░░░░░░  55%        ║
+║  Docker & MLOps       ████████████░░░░░░░░░░░░░░  45%        ║
+║  Deep Learning        ████████░░░░░░░░░░░░░░░░░░  30%        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Globe.svg" width="24"/> Languages
+
+<div align="center">
+
+| <img src="https://flagcdn.com/w40/ru.png" width="30"/> Russian | <img src="https://flagcdn.com/w40/gr.png" width="30"/> Greek | <img src="https://flagcdn.com/w40/gb.png" width="30"/> English | <img src="https://flagcdn.com/w40/de.png" width="30"/> German |
+|:---:|:---:|:---:|:---:|
+| Native | Native | B2 | A2-B1 |
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Handshake.svg" width="24"/> Let's Connect
+
+<i>Open to FinTech opportunities, ML/AI collaborations, and interesting projects!</i>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/steven-doktorov-304aa5296/">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+</a>
+
+</div>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:00d9ff,100:00d9ff&height=120&section=footer"/>
