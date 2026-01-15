@@ -101,7 +101,7 @@ Full-stack trading simulator with real-time crypto/forex prices
 <td width="50%" align="center">
 
 <a href="https://github.com/SteveDok22/PacifiqueTrade-indicator2.0">
-  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/pacifique-trade.png" width="100%" alt="PacifiqueTrade"/>
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/Screen.png" width="100%" alt="PacifiqueTrade"/>
 </a>
 
 ### [PacifiqueTrade 2.0](https://github.com/SteveDok22/PacifiqueTrade-indicator2.0)
@@ -180,7 +180,7 @@ Modern coffee shop with SVG animations & neon effects
 <td width="50%" align="center">
 
 <a href="https://github.com/SteveDok22/Thunder-QR-generator">
-  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/qr-generator.png" width="100%" alt="QR Generator"/>
+  <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/Recording.gif" width="100%" alt="QR Generator"/>
 </a>
 
 ### [Thunder QR Generator](https://github.com/SteveDok22/Thunder-QR-generator)
