@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Portfolio Button - MAIN CTA -->
-<a href="https://stevedok22.github.io">
+<a href="https://stevedok22.github.io/Project-CV-Code-0.2/">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00d9ff?style=for-the-badge&logoColor=black" alt="Portfolio" height="35"/>
 </a>
 
