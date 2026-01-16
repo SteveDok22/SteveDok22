@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:00d9ff,100:00d9ff&height=200&section=header&text=Stiven%20Ntoktorov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FinTech%20%7C%20MLOps&descSize=18&descAlignY=55"/>
+<!-- Animated Header - Black Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a192f&height=200&section=header&text=Stiven%20Ntoktorov&fontSize=50&fontColor=00d9ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FinTech%20%7C%20MLOps&descSize=18&descAlignY=55&descColor=ffffff"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -10,12 +10,30 @@
 
 <br/>
 
-<!-- Portfolio Button - MAIN CTA -->
+<!-- Portfolio Section - BIG CTA with QR -->
+<table>
+<tr>
+<td align="center">
+
+### 🌐 Check Out My Portfolio
+
 <a href="https://stevedok22.github.io/Project-CV-Code-0.2/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00d9ff?style=for-the-badge&logoColor=black" alt="Portfolio" height="35"/>
+  <img src="https://img.shields.io/badge/👉_VISIT_MY_PORTFOLIO_👈-00d9ff?style=for-the-badge&logoColor=black" alt="Portfolio" height="50"/>
 </a>
 
 <br/><br/>
+
+**Scan QR to visit:**
+
+<a href="https://stevedok22.github.io/Project-CV-Code-0.2/">
+  <img src="assets\qr-portfolio.png" width="150" alt="QR Code"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-doktorov-304aa5296/)
@@ -56,16 +74,13 @@ Now I'm combining it all: creating **FinTech applications** that solve real trad
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" alt="Languages"/>
 
 ### Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,tailwind,bootstrap&theme=dark" alt="Frameworks"/>
 
 ### Data Science & ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML"/>
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,postgres&theme=dark" alt="Tools"/>
@@ -83,7 +98,7 @@ Now I'm combining it all: creating **FinTech applications** that solve real trad
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/SteveDok22/TradeSim-Pro">
+<a href="https://tradesim-pro-stiven-62203fadbb77.herokuapp.com/">
   <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/tradesim-pro.gif" width="100%" alt="TradeSim Pro"/>
 </a>
 
@@ -122,7 +137,7 @@ Forex trading system with Telegram alerts & liquidity zones
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/SteveDok22/FinTrack">
+<a href="https://stevedok22.github.io/FinTrack/">
   <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/fintrack.png" width="100%" alt="FinTrack"/>
 </a>
 
@@ -139,7 +154,7 @@ Personal finance tracking with T-Bank inspired UI
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/SteveDok22/MoneyMind---Servey">
+<a href="https://money-minde-servey-3397e1a23ed8.herokuapp.com/">
   <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/finance-survey.png" width="100%" alt="MoneyMind"/>
 </a>
 
@@ -162,7 +177,7 @@ Finance survey analyzer with Google Sheets API
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/SteveDok22/HYPE-speciality-coffee">
+<a href="https://stevedok22.github.io/Hype-coffee/">
   <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/hype-coffee.png" width="100%" alt="HYPE Coffee"/>
 </a>
 
@@ -179,7 +194,7 @@ Modern coffee shop with SVG animations & neon effects
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/SteveDok22/Thunder-QR-generator">
+<a href="https://stevedok22.github.io/JS.QR-Code/">
   <img src="https://raw.githubusercontent.com/SteveDok22/SteveDok22/main/assets/projects/Recording.gif" width="100%" alt="QR Generator"/>
 </a>
 
@@ -190,7 +205,8 @@ Custom QR code generator with logo embedding
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat-square&logo=python&logoColor=white)
 ![qrcode](https://img.shields.io/badge/qrcode-000000?style=flat-square&logo=qrcode&logoColor=white)
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteveDok22/Thunder-QR-generator)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d9ff?style=for-the-badge&logoColor=black)](https://stevedok22.github.io/JS.QR-Code/)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteveDok22/JS.QR-Code)
 
 </td>
 </tr>
@@ -248,7 +264,7 @@ Custom QR code generator with logo embedding
 
 <br/>
 
-<a href="https://stevedok22.github.io">
+<a href="https://stevedok22.github.io/Project-CV-Code-0.2/">
   <img src="https://img.shields.io/badge/🌐_My_Portfolio-00d9ff?style=for-the-badge&logoColor=black" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/steven-doktorov-304aa5296/">
@@ -257,5 +273,5 @@ Custom QR code generator with logo embedding
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:00d9ff,100:00d9ff&height=120&section=footer"/>
+<!-- Animated Footer - Black Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a192f&height=120&section=footer"/>
